@@ -43,4 +43,4 @@ A Retrieval-Augmented Generation (RAG) assistant for legal document analysis and
 
 Below is a screenshot of the Legal RAG Assistant interface:
 
-![Legal RAG Assistant UI](assets/final_project_ui.png)
+![Legal RAG Assistant UI](./assets/final_project_ui.png)
